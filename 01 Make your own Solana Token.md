@@ -15,8 +15,11 @@ EXPLANATION BEGINS BELOW
 (Gosh this file gives off vibes of a school lab report) 
 
 ---
-First, we make a Solana Wallet using the cmd line tool 
-``` solana-keygen new --force -o "D:\Solana\test.json" ```
+
+First, we make a Solana Wallet using the cmd line tool   
+
+``` solana-keygen new --force -o "D:\Solana\test.json" ```  
+
 ![image](https://user-images.githubusercontent.com/97212160/196774292-faafe026-befe-45e4-9db7-b31cd3ccb2bf.png)
 ---
 Next, 
