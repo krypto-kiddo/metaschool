@@ -22,14 +22,17 @@ First, we make a Solana Wallet using the cmd line tool
 
 ![image](https://user-images.githubusercontent.com/97212160/196774934-484a60b6-94cb-4327-855f-09d2d0cf9b3c.png)
 ---
+
 Next, we set the default keypair to the wallet we just created. (DO NOTE MY RPC URL WAS ALREADY CONFIGURED TO DEV NET)  
 ``` solana config set --keypair "D:\Solana\test.json" ```
 ![image](https://user-images.githubusercontent.com/97212160/196774881-13420001-c44a-4315-a9ff-c9197d27e8ad.png)
 ---
+
 Now, we beg for an airdrop UwU  
 ``` solana airdrop 1 ```  
 ![image](https://user-images.githubusercontent.com/97212160/196775238-a6589401-c88b-402c-940d-f0f8bf82a7bd.png)
 ---
+
 Next, we use the spl-token command to create a token using one single command!!!  
 (seriously, as an ethereum dev i find this very, very weird)  
 
@@ -41,10 +44,12 @@ And once the token is made, we get the address and create an account for it.
 
 ![image](https://user-images.githubusercontent.com/97212160/196775772-602984bb-ce8d-4dfc-805f-be55c2251982.png)
 ---
+
 Finally, we will mint some tokens to our own wallet first. In this case, my fav number :))
 ![image](https://user-images.githubusercontent.com/97212160/196775987-9740267e-6b11-4905-8634-86a0973bf397.png)
 ---
-We are not done yet! This is a very important step:
+We are not done yet! This is a very important step:  
+
 ![image](https://user-images.githubusercontent.com/97212160/196776105-520514ca-0f9d-4703-bc2d-b1f88d1e6e50.png)
 our project wont be complete without this one important command.
 ---
