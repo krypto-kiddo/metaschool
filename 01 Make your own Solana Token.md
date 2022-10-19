@@ -1,7 +1,7 @@
 # My First SPL token
 Launched on the Devnet. Guided by Metaschool. 
 
-Emotions are too much to handle man, I just wanna go back to being a workaholic when I didnt care about the world and always put work first.
+Emotions are too much to handle man, I just wanna go back to being a workaholic when I didn't care about the world and always put work first.
 Anyway, I felt bored and aimless, decided to polish my skills while I take my time to find motivation again. 
 Hence, this Metaschool series was born. 
 
